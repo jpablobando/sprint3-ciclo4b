@@ -19,6 +19,6 @@ https://github.com/MisionTIC4b/f_chat
 
 ------DEMO SOLUCIÓN SPRINT 3 CICLO 4B -------
 
-NRC 2290
+NRC 2290 GRUPO 6
 
-LINK: 
+LINK: https://youtu.be/bldaI7NLNrA
